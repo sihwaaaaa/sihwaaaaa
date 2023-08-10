@@ -2,13 +2,16 @@
 
 ###
 
+<img align="left" height="300" width="300" src="https://sihwaaaaa.github.io/img/aniprofile.png"  />
 
+###
   
-> <h3 align="left">
-_I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly. With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members. My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication._</h3> | <img align="right" height="300" width="300" src="https://sihwaaaaa.github.io/img/aniprofile.png"  />
----|---|
-  
+> <h3>
+I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly. With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members. My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication.</h3>
 
+###
+
+<p align="left">여기에 포폴 사이트 링크</p>
 
 ###
 
@@ -47,9 +50,6 @@ _I aim to proactively grasp the rapidly evolving trends in the IT industry and a
 
 ###
 
-<p align="left">여기에 포폴 사이트 링크</p>
-
-###
 
 <h4 align="left">Backend</h4>
 

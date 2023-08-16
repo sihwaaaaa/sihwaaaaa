@@ -16,8 +16,11 @@
 <br>
 <br>
 
-[<h2>My Portfolio:arrow_forward:</h2>](https://sihwaaaaa.github.io/)
 
+[My Portfolio:arrow_forward:](https://sihwaaaaa.github.io/)
+###
+
+<br>
 <h2 align="left">🦲 My Profile</h2>
 
 ###
@@ -49,6 +52,8 @@
 </div>
 
 ###
+
+<br>
 <h2 align="left">💪 My Skils</h2>
 
 ###
@@ -111,7 +116,18 @@
 ###
 
 
+<br>
+<h2 align="left">:open_file_folder: My Project</h2>
 
+###
+
++ Team Project
+    + [jubging (줍깅 - 지구와 나를 위한 발걸음)](https://jubging.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
+        + Public purposes Web application
+        + Final Project
+    + [ssangchu market (상추마켓)](https://ssangchu.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
+        + Location-based secondhand trading web application
+        + Semi Project
 ###
 
 <br clear="both">
@@ -122,4 +138,3 @@
 </div>
 
 ###
-

@@ -5,26 +5,18 @@
 <img align="left" height="300" width="300" src="https://sihwaaaaa.github.io/img/aniprofile.png"  />
 
 ###
-  
-> <h3>
-I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly. With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members. My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication.</h3>
+
+
+> _<h3>I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly.</h3>_
+> _<h3>With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members.</h3>_
+> _<h3>My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication.</h3>_
 
 ###
 
-<p align="left">여기에 포폴 사이트 링크</p>
+<br>
+<br>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/poetry_painting/?igshid=MmIzYWVlNDQ5Yg%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:tlghk98@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+[<h2>My Portfolio:arrow_forward:</h2>](https://sihwaaaaa.github.io/)
 
 <h2 align="left">🦲 My Profile</h2>
 
@@ -46,6 +38,17 @@ I aim to proactively grasp the rapidly evolving trends in the IT industry and ad
 
 ###
 
+<div align="left">
+  <a href="https://www.instagram.com/poetry_painting/?igshid=MmIzYWVlNDQ5Yg%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:tlghk98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
+</div>
+
+###
 <h2 align="left">💪 My Skils</h2>
 
 ###

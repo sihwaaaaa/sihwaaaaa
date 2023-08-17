@@ -128,13 +128,22 @@
     + [ssangchu market (상추마켓)](https://ssangchu.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
         + Location-based secondhand trading web application
         + Semi Project
-###
+    + eats mart / [Git](https://jubging.poetrypainting.co.kr/)
+        + Mart Ordering System - JAVA application
+        + Mini Project
++ Personal Project
+    + [PISTOLS](https://pf2.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
+        + Rock Band Clothing Sales Shopping Mall and Community Web application
+    + [Community (커뮤니티 게시판)](https://jsp.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
+        + Web Application with Various Board Formats
 
+###
+---
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sihwaaaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sihwaaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sihwaaaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sihwaaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###

@@ -6,18 +6,15 @@
 
 ###
 
-
-> _<h3>I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly.</h3>_
-> _<h3>With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members.</h3>_
-> _<h3>My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication.</h3>_
+> _<h3>I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly.</h3>_ > _<h3>With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members.</h3>_ > _<h3>My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication.</h3>_
 
 ###
 
 <br>
 <br>
 
-
 [My Portfolio:arrow_forward:](https://sihwaaaaa.github.io/)
+
 ###
 
 <br>
@@ -57,7 +54,6 @@
 <h2 align="left">💪 My Skils</h2>
 
 ###
-
 
 <h4 align="left">Backend</h4>
 
@@ -115,30 +111,31 @@
 
 ###
 
-
 <br>
 <h2 align="left">:open_file_folder: My Project</h2>
 
 ###
 
-+ Team Project
-    + [jubging (줍깅 - 지구와 나를 위한 발걸음)](https://jubging.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
-        + Public purposes Web application
-        + Final Project
-    + [ssangchu market (상추마켓)](https://ssangchu.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
-        + Location-based secondhand trading web application
-        + Semi Project
-    + eats mart / [Git](https://jubging.poetrypainting.co.kr/)
-        + Mart Ordering System - JAVA application
-        + Mini Project
-+ Personal Project
-    + [PISTOLS](https://pf2.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
-        + Rock Band Clothing Sales Shopping Mall and Community Web application
-    + [Community (커뮤니티 게시판)](https://jsp.poetrypainting.co.kr/) / [Git](https://jubging.poetrypainting.co.kr/)
-        + Web Application with Various Board Formats
+- Team Project
+  - [jubging (줍깅 - 지구와 나를 위한 발걸음)](https://jubging.poetrypainting.co.kr/) / [Git-Frontend](https://github.com/sihwaaaaa/Plogging_Project_Frontend) / [Git-Backend](https://github.com/sihwaaaaa/Plogging_Project_Backend)
+    - Public purposes Web application
+    - Final Project
+  - [ssangchu market (상추마켓)](https://ssangchu.poetrypainting.co.kr/) / [Git](https://github.com/sihwaaaaa/ssangchu)
+    - Location-based secondhand trading web application
+    - Semi Project
+  - eats mart / [Git](https://github.com/sihwaaaaa/eats-mart)
+    - Mart Ordering System - JAVA application
+    - Mini Project
+- Personal Project
+  - [PISTOLS](https://pf2.poetrypainting.co.kr/) / [Git](https://github.com/sihwaaaaa/PISTOLS)
+    - Rock Band Clothing Sales Shopping Mall and Community Web application
+  - [Community (커뮤니티 게시판)](https://jsp.poetrypainting.co.kr/) / [Git](https://github.com/sihwaaaaa/community)
+    - Web Application with Various Board Formats
 
 ###
+
 ---
+
 <br clear="both">
 
 <div align="center">

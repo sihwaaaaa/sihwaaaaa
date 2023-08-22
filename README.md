@@ -6,7 +6,7 @@
 
 ###
 
-> _<h3>I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly.</h3>_ > _<h3>With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members.</h3>_ > _<h3>My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication.</h3>_
+> _<h3>I aim to proactively grasp the rapidly evolving trends in the IT industry and adapt flexibly.</h3>_ _<h3>With a bright and positive personality, I actively utilize it to assist others, fostering continuous communication with team members.</h3>_ _<h3>My goal is to become a flexible developer who can contribute by collaborating effectively and maintaining ongoing communication.</h3>_
 
 ###
 
